@@ -1,5 +1,5 @@
 # axi_lite_ddr_master
- An AXI-lite master to read & write DDR3 via the Xilix 7 Series MIG (without using the seemingly obligatory soft-processor).
+ A Verilog AXI-lite master to read & write DDR3 via the Xilix 7 Series MIG (without using the seemingly obligatory soft-processor).
 
  I was a bit miffed at the lack of documentation around getting the Xilinx MIG IP core to work without a MicroBlaze or some other soft-processor, so I did this project to try and find a nice way of writing to the DDR3 memory on my Arty board.
 
